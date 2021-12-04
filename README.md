@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Patrik 👋
+
+I am a PhD student with Wieland Brendel, Ferenc Huszár, Matthias Bethge, and Bernhard Schölkopf at the IMPRS-IS/ELLIS programs with research interests in 
+- Nonlinear ICA,
+- Causal discovery,
+- (Causal) representation learning
+
+I recently (Sep 2021) started a [blog](rpatrik96.github.io) on causality, check it out!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rpatrik96)
 
 <!--
 **rpatrik96/rpatrik96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
