@@ -5,7 +5,7 @@ I am a PhD student with Wieland Brendel, Ferenc Huszár, Matthias Bethge, and Be
 - Causal discovery,
 - (Causal) representation learning
 
-I recently (Sep 2021) started a [blog](rpatrik96.github.io) on causality, check it out!
+I recently (Sep 2021) started a [blog](https://rpatrik96.github.io/) on causality, check it out!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rpatrik96)
 
