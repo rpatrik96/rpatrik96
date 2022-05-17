@@ -8,6 +8,7 @@ I am a PhD student with Wieland Brendel, Ferenc Huszár, Matthias Bethge, and Be
 I recently (Sep 2021) started a [blog](https://rpatrik96.github.io/) on causality, check it out!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rpatrik96)
+![Metrics](https://metrics.lecoq.io/rpatrik96?template=classic&base.community=0&tweets=1&base.indepth=false&tweets.attachments=false&tweets.limit=2&tweets.user=rpatrik96&config.timezone=Europe%2FBerlin)
 
 <!--
 **rpatrik96/rpatrik96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
