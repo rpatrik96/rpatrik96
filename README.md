@@ -1,11 +1,11 @@
 ### Hi, I'm Patrik 👋
 
 I am a PhD student with Wieland Brendel, Ferenc Huszár, Matthias Bethge, and Bernhard Schölkopf at the IMPRS-IS/ELLIS programs with research interests in 
-- Nonlinear ICA,
-- Causal discovery,
-- (Causal) representation learning
+- Causal representation learning and
+- Identifiability
 
-I recently (Sep 2021) started a [blog](https://rpatrik96.github.io/) on causality, check it out!
+
+I recently (Sep 2021) started a [blog](https://rpatrik96.github.io/) on causality, check it out! Even more recently (Nov 2022), I started the [The Path to PhD](https://path2phd.substack.com/) newsletter to share my thoughts and the advice I received during my PhD.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rpatrik96)
 ![Metrics](https://metrics.lecoq.io/rpatrik96?template=classic&tweets=1&base.indepth=false&tweets.attachments=false&tweets.limit=5&tweets.user=rpatrik96&config.timezone=Europe%2FBerlin)
